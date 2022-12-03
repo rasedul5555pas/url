@@ -1,3 +1,5 @@
-lddokglgmllvml
-vknsnvnnvnsnv
-fjvj  vnkn
+=> git add .
+=> git commit -m "text instruction file added"
+=> git push
+
+
